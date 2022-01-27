@@ -3,7 +3,7 @@
 Atver šo repozitoriju repit. <br>
 Izveido jaunu zaru(branch) <br>
 Nosauc to savā vārdā <br>
-Izpildi 1.uzdevumu, pielietojot funkcijas <br>
+Izpildi 1.uzdevumu, pielietojot funkcijas un moduļus<br>
 Eksportē izmaiņas uz GitHub (push)<br>
 # 1.Uzdevums
 Programma pieprasa ievadīt kvadrāta diagonāles garumu centimetros. <br> Tiek aprēķināts kvadrāta laukums.<br>
